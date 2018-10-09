@@ -14,4 +14,10 @@
 * 科学上网
 * Git
 
-2. [桌面环境优化、美化]()
+2. [桌面环境优化、美化](https://github.com/jiangzc/Ubuntu18.04-Configure-Guide/blob/master/guide2.md)  
+* Tweaks 修改界面
+* 微软雅黑字体
+* 文件浏览器设置---总是显示路径
+* 快捷键失效问题
+* 显示休眠、睡眠按钮
+* 设置浅休眠时 不锁定
